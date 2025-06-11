@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,Diagnosis,LabResult,BP,Sugar,Discharge,Medicine
+P0001,Sherry Garcia,76,Female,Liver Disease,10.0,110/73,109.36,Recovered,Ibuprofen
+P0002,Roger Bowers,22,Female,Cancer,6.02,113/81,164.76,Deceased,Omeprazole
+P0003,David Knight,1,Male,COVID-19,9.05,96/74,120.85,Recovered,Insulin
+P0004,Robert Wiley,29,Male,Asthma,6.89,119/65,78.34,Referred,Atorvastatin
+P0005,Robert Marquez,33,Male,Hypertension,7.7,131/80,102.84,Under Observation,Losartan
+P0006,Brent Bailey,78,Male,Hypertension,5.9,110/73,129.27,Under Observation,Omeprazole
+P0007,Melissa Schroeder,24,Female,Flu,6.48,109/73,192.36,Under Observation,Paracetamol
+P0008,Edward Johnson,89,Male,Hypertension,8.77,127/60,75.78,Referred,Lisinopril
+P0009,Ana George,12,Female,Flu,5.02,137/86,185.15,Recovered,Paracetamol
+P0010,Morgan Green,52,Male,Hypertension,5.99,112/74,159.98,Recovered,Ibuprofen
+P0011,Karen Wright,6,Male,Diabetes,7.18,120/83,131.09,Recovered,Paracetamol
+P0012,Jordan Munoz,72,Female,Flu,6.2,120/85,162.17,Under Observation,Insulin
+P0013,Angela Collins,45,Female,COVID-19,7.62,138/89,78.11,Referred,Atorvastatin
+P0014,Wendy Davis,58,Female,COVID-19,7.42,116/90,111.07,Under Observation,Paracetamol
+P0015,Sarah Nash,69,Male,Diabetes,6.94,116/82,156.98,Under Observation,Insulin
+P0016,Leah Martinez,73,Male,Cancer,5.07,98/66,195.15,Referred,Paracetamol
+P0017,Cathy Ryan,49,Male,Kidney Failure,4.59,138/65,163.74,Recovered,Insulin
+P0018,Ashley Cannon,6,Male,Hypertension,8.35,131/84,111.06,Under Observation,Ibuprofen
+P0019,Michelle Bowman,11,Female,COVID-19,6.19,123/78,135.87,Referred,Atorvastatin
+P0020,Nancy Davis,26,Female,Liver Disease,8.0,109/82,117.41,Deceased,Insulin
+P0021,Mike Hood,24,Female,Asthma,9.77,93/67,81.13,Under Observation,Omeprazole
+P0022,Todd Daniels,10,Female,Tuberculosis,7.12,137/62,148.3,Deceased,Paracetamol
+P0023,Nicole Perez,26,Male,Liver Disease,4.11,107/90,137.14,Deceased,Ibuprofen
+P0024,Misty Walters,38,Female,Tuberculosis,3.56,112/76,135.95,Deceased,Metformin
+P0025,Marc Hoffman,22,Male,Kidney Failure,3.62,128/64,84.42,Recovered,Losartan
+P0026,Jacob Shannon,57,Female,Flu,3.97,116/72,185.86,Under Observation,Atorvastatin
+P0027,Meghan Gibson,8,Male,Hypertension,4.05,103/67,79.78,Recovered,Insulin
+P0028,Patricia Williamson,5,Male,Liver Disease,8.26,97/68,172.76,Deceased,Paracetamol
+P0029,Rachel Crawford,48,Male,Diabetes,6.02,128/62,91.83,Deceased,Paracetamol
+P0030,Jamie Barnes,36,Male,Hypertension,8.46,113/82,183.97,Deceased,Insulin
+P0031,Andrew Mercer,78,Male,Asthma,7.18,92/90,174.71,Recovered,Insulin
+P0032,Mary Copeland,3,Female,Cancer,4.86,96/62,185.35,Recovered,Omeprazole
+P0033,Elizabeth Tran,59,Female,Asthma,3.63,104/87,110.03,Deceased,Albuterol
+P0034,Richard Cortez,79,Male,Flu,8.91,127/61,166.16,Under Observation,Losartan
+P0035,Sonya Brown,3,Female,Hypertension,5.86,127/81,125.09,Deceased,Lisinopril
+P0036,Kathleen Hall,72,Female,Flu,8.97,99/63,81.12,Recovered,Insulin
+P0037,Kevin Buck,61,Male,Kidney Failure,7.82,97/89,105.71,Referred,Losartan
+P0038,Patricia Anderson,71,Male,Heart Disease,5.45,123/63,81.69,Under Observation,Omeprazole
+P0039,Harry Lee,14,Female,Hypertension,5.46,103/64,153.94,Deceased,Paracetamol
+P0040,Ruben Moody,54,Female,Heart Disease,7.71,104/88,103.03,Recovered,Atorvastatin
+P0041,Christy Walsh,40,Male,Flu,4.28,130/72,89.59,Referred,Omeprazole
+P0042,Michelle Davis,29,Male,Diabetes,6.67,133/85,123.45,Recovered,Ibuprofen
+P0043,Scott Thomas,53,Female,Heart Disease,6.14,105/62,98.07,Referred,Albuterol
+P0044,Stephen Rodriguez,33,Male,Heart Disease,5.99,139/86,131.81,Recovered,Atorvastatin
+P0045,Ryan Johnson,4,Female,Hypertension,3.83,111/86,183.34,Referred,Losartan
+P0046,Michael Cameron,81,Female,Cancer,7.67,97/60,116.12,Under Observation,Paracetamol
+P0047,Robert Burch,6,Female,Cancer,7.28,130/90,186.73,Recovered,Atorvastatin
+P0048,Omar White,9,Female,Cancer,4.28,113/67,87.88,Referred,Albuterol
+P0049,Charles Bishop,41,Female,Cancer,3.74,114/81,99.53,Referred,Atorvastatin
+P0050,Jocelyn Gonzalez,1,Male,Kidney Failure,8.75,122/89,174.21,Deceased,Metformin
+P0051,George Le,73,Female,Liver Disease,6.81,124/62,135.12,Referred,Paracetamol
+P0052,Rebecca Caldwell,21,Female,Kidney Failure,5.11,98/76,110.4,Recovered,Amoxicillin
+P0053,Jeffrey Sosa,1,Male,Hypertension,4.85,113/88,73.63,Referred,Metformin
+P0054,Jessica Young DDS,32,Female,Hypertension,8.21,119/78,102.94,Deceased,Insulin
+P0055,Dylan Hogan,81,Male,Liver Disease,8.44,102/89,139.22,Recovered,Ibuprofen
+P0056,Jerry Camacho,29,Male,Liver Disease,8.94,129/67,181.29,Referred,Albuterol
+P0057,Alexandra Mccarthy,87,Female,Hypertension,4.97,98/65,160.8,Referred,Metformin
+P0058,Kristen Jacobs,14,Male,COVID-19,8.58,117/66,158.46,Under Observation,Metformin
+P0059,Tiffany Kim,1,Female,Cancer,7.45,104/60,136.55,Referred,Lisinopril
+P0060,Joseph Sims,64,Female,Liver Disease,6.6,91/72,176.61,Deceased,Paracetamol
+P0061,Elizabeth Rivera,49,Male,Flu,4.7,119/80,185.9,Deceased,Paracetamol
+P0062,Alexis Williams,35,Female,COVID-19,7.39,111/67,166.77,Recovered,Omeprazole
+P0063,Jessica Hurst,66,Male,Diabetes,6.02,90/80,164.57,Deceased,Losartan
+P0064,Penny Cunningham,22,Female,Heart Disease,4.74,135/69,101.41,Referred,Atorvastatin
+P0065,Shelly Thompson,5,Male,Liver Disease,4.46,118/63,175.39,Referred,Lisinopril
+P0066,Stacey Castillo,37,Male,Liver Disease,8.15,134/61,193.12,Recovered,Ibuprofen
+P0067,Jamie Johnson,74,Male,Kidney Failure,6.13,93/62,104.47,Under Observation,Insulin
+P0068,Steven Morris,81,Female,Diabetes,4.99,115/64,151.67,Referred,Losartan
+P0069,Douglas Moore,29,Male,COVID-19,9.24,99/64,132.56,Under Observation,Omeprazole
+P0070,Jose Fischer,64,Female,Cancer,5.5,128/64,140.6,Referred,Atorvastatin
+P0071,Jessica Davis,84,Male,COVID-19,8.66,128/68,127.97,Under Observation,Albuterol
+P0072,David Terry,12,Male,Diabetes,9.12,104/84,176.94,Under Observation,Atorvastatin
+P0073,Matthew Wang,80,Male,Diabetes,5.09,105/87,152.4,Deceased,Insulin
+P0074,Patrick Davis,16,Female,COVID-19,5.88,113/87,129.4,Recovered,Ibuprofen
+P0075,Jennifer Ibarra,73,Male,Cancer,5.39,92/73,151.28,Referred,Losartan
+P0076,Brandon Terrell,89,Male,Asthma,9.17,112/65,74.8,Recovered,Insulin
+P0077,Christopher Hunt,39,Male,COVID-19,9.12,95/83,118.58,Under Observation,Losartan
+P0078,Joseph Bishop,41,Female,Asthma,9.19,105/89,187.0,Recovered,Atorvastatin
+P0079,Roberta Compton,75,Male,Flu,9.56,108/71,149.88,Recovered,Insulin
+P0080,Jennifer Carlson,4,Female,Tuberculosis,5.14,121/89,125.73,Recovered,Omeprazole
+P0081,Ashley Carter,10,Female,COVID-19,5.39,130/62,178.64,Under Observation,Albuterol
+P0082,Andrew Stone,2,Female,Heart Disease,7.07,137/79,101.89,Recovered,Amoxicillin
+P0083,Edward Petty,36,Male,Liver Disease,5.9,111/76,132.58,Recovered,Ibuprofen
+P0084,Hannah Smith,47,Female,Flu,7.35,129/79,100.63,Referred,Metformin
+P0085,Michelle Middleton,76,Female,Hypertension,4.55,123/78,114.78,Under Observation,Lisinopril
+P0086,Roberto Patel,28,Male,Flu,7.65,92/72,149.9,Recovered,Ibuprofen
+P0087,Raymond Gordon,56,Female,Cancer,3.88,140/68,185.18,Referred,Albuterol
+P0088,Kevin Hanson,37,Female,Diabetes,8.41,134/78,185.18,Referred,Atorvastatin
+P0089,Carla Parker,70,Male,Hypertension,9.5,124/86,173.2,Deceased,Losartan
+P0090,Robert Lewis,42,Male,Kidney Failure,6.68,128/80,134.82,Recovered,Atorvastatin
+P0091,Evan Johnson,89,Female,Diabetes,7.23,97/85,178.98,Referred,Omeprazole
+P0092,Christina Dillon,9,Female,COVID-19,6.03,130/75,121.86,Deceased,Omeprazole
+P0093,Daniel Mendoza,87,Female,Heart Disease,7.34,103/71,120.01,Under Observation,Metformin
+P0094,Tanya Hardin,60,Female,Diabetes,8.5,109/69,197.21,Under Observation,Losartan
+P0095,Casey Irwin,28,Male,Flu,6.12,118/67,72.33,Deceased,Albuterol
+P0096,Holly Powell,36,Female,Flu,7.25,109/71,141.29,Under Observation,Atorvastatin
+P0097,Heather Davidson,86,Female,Asthma,7.59,124/76,153.41,Referred,Atorvastatin
+P0098,Kevin Michael,50,Female,Cancer,7.04,97/74,111.46,Deceased,Lisinopril
+P0099,Jeffrey Wagner,33,Male,Flu,9.07,127/78,76.11,Recovered,Losartan
+P0100,Chase Mcmillan,45,Male,Flu,5.28,110/73,190.25,Deceased,Insulin
